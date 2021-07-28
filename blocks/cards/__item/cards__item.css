@@ -20,7 +20,8 @@
 
 @media (max-width: 820px) {
   .cards__item {
-    grid-template-columns: fit-content(340px) 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    /*grid-template-columns: fit-content(340px) 1fr;*/
     column-gap: 28px;
     margin-bottom: 72px;
   }

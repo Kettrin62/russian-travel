@@ -10,10 +10,6 @@
   height: 100%;
   text-align: center;
   z-index: 1;
-  /*padding-bottom: 92px;*/
- 
-  /*background: url(../../../images/cover-trains.png) center no-repeat;
-  max-width: 1124px;*/
 }
 
 @media (max-width: 440px) {
