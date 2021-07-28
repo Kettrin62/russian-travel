@@ -1,0 +1,6 @@
+@media (max-width: 440px) {
+  .cards__main-text {
+    margin-right: 16px;
+    margin-left: 16px;
+  }
+}

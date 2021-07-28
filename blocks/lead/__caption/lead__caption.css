@@ -1,0 +1,20 @@
+.lead__caption {
+  text-align: left;
+  margin-top: 8px;
+  font-size: 10px;
+  line-height: 1.4;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+@media (max-width: 820px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
+
+@media (max-width: 440px) {
+  .lead__caption {
+    margin-left: 16px;
+  }
+}

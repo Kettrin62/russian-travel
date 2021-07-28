@@ -1,0 +1,10 @@
+.cards__website {
+  align-self: end;
+}
+
+@media (max-width: 440px) {
+  .cards__website {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}

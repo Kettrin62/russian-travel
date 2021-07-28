@@ -1,0 +1,17 @@
+.cards__paragraph {
+  font-size: 18px;
+  line-height: 1.63;
+  font-weight: normal;
+  margin: 0 0 26px;
+}
+
+.cards__paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
+@media (max-width: 880px) {
+  .cards__paragraph {
+    font-size: 16px;
+    margin-bottom: 25px;
+  }
+}
