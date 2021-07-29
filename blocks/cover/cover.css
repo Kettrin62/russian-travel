@@ -1,7 +1,7 @@
 .cover {
   color: #fff;
-  background: url(../../images/cover-trains.png) center/cover no-repeat #2a2c2f;
-  height: 740px;
+  background: url(../../images/cover-trains.jpg) center/cover no-repeat #2a2c2f;
+  min-height: 740px;
   padding: 0;
   position: relative;
 }
@@ -24,18 +24,18 @@
 
 @media (max-width: 1060px) {
   .cover {
-    height: 640px;
+    min-height: 640px;
   }
 }
 
 @media (max-width: 820px) {
   .cover {
-    height: 480px;
+    min-height: 480px;
   }
 }
 
 @media (max-width: 440px) {
   .cover {
-    height: 200px;
+    min-height: 200px;
   }
 }
