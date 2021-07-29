@@ -6,8 +6,6 @@
   margin: 0 auto 32px;
 }
 
-
-
 @media (max-width: 600px) {
   .cover__title {
     font-size: calc(100vw/10);
