@@ -3,4 +3,9 @@
   font-weight: normal;
   line-height: 1.22;
   color: #fff;
+  transition: opacity .5s linear;
+}
+
+.cards__link:hover {
+  opacity: .8;
 }
