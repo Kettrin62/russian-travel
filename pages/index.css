@@ -7,7 +7,6 @@
 @import url(../blocks/page/__section/_width/page__section_width_small.css);
 @import url(../blocks/page/__section/_width/page__section_width_full-small.css);
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__content/header__content.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang/header__lang.css);
 @import url(../blocks/header/__links/header__links.css);
