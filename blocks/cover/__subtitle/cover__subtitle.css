@@ -4,6 +4,7 @@
   font-weight: normal;
   line-height: 1.22;
   margin: 0 auto;
+  z-index: 1;
 }
 
 @media (max-width: 600px) {
