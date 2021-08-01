@@ -5,6 +5,8 @@
   line-height: 1.4;
   font-weight: normal;
   text-transform: uppercase;
+  letter-spacing: 1.5px;
+  
 }
 
 @media (max-width: 820px) {

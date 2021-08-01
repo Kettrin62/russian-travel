@@ -8,5 +8,6 @@
 @media (max-width: 820px) {
   .cards__image {
     width: auto;
+    justify-self: center;
   }
 }

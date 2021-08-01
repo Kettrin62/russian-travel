@@ -6,11 +6,10 @@
   margin: 0 auto 32px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   .cover__title {
-    font-size: 32px;
+    font-size: calc(100vw/10);
     line-height: 1.09;
-    max-width: 288px;
     margin-bottom: 16px;
   }
 }
