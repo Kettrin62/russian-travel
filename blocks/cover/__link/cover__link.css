@@ -8,6 +8,8 @@
   width: 100%;
   min-height: 740px;
   text-align: center;
+  position: relative;
+  z-index: 2;
 }
 
 @media (max-width: 1060px) {
